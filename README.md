@@ -31,7 +31,7 @@ This project scrapes book data from the [books.toscrape.com](https://books.toscr
 
 ## Setup and Installation
 
-1. Clone the repository:
+### Clone the repository:
    ```bash
    git clone https://github.com/srsaurav0/Scrapy-Product-Scraper.git
    cd Scrapy-Product-Scraper
