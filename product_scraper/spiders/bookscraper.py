@@ -6,7 +6,6 @@ class BookscraperSpider(scrapy.Spider):
     name = "bookscraper"
     allowed_domains = ["books.toscrape.com"]
     start_urls = ["https://books.toscrape.com/"]
-    rows = []
 
     def parse(self, response):
 
