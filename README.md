@@ -32,8 +32,8 @@ This project scrapes book data from the [books.toscrape.com](https://books.toscr
 
 1. Clone the repository:
    ```bash
-   <!-- git clone https://github.com/srsaurav0/Hotel-Retrieval-Scrapy.git -->
-   cd product_scraper
+   git clone https://github.com/srsaurav0/Scrapy-Product-Scraper.git
+   cd Scrapy-Product-Scraper
    ```
 
 ### Create and activate a virtual environment:
