@@ -5,6 +5,7 @@
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Setup and Installation](#setup-and-installation)
+- [Run Application](#run-application)
 - [Project Structure](#project-structure)
 
 ---
